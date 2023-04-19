@@ -19,6 +19,6 @@ pip install -U <LLIBRERIA>
 
 ### Codi pytestdemo.py
 
-- Els 2 primers tests són sobre una funció inventada.
+- Els 2 primers tests són sobre una funció inventada (dins d'aligner.py)
 - Els 3 mètodes entremig provem Requests a API's externes.
-- Els 3 últims els provem en un web service creat per nosaltres amb Flask.
+- Els 3 últims els provem en un web service creat per nosaltres amb Flask, el seu codi es troba a la carpeta /app5
